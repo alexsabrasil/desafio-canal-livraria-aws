@@ -45,8 +45,8 @@ Time five:
 
 - Definição de itens de Arquitetura na AWS - Responsável: <nome>
 - Redes (VPC, Subnets pública/privada, AZs, Regiões) - Responsável: <nome>
-- Recursos (EC2, S3, etc) - Responsável: <Alexsandra>
-- Plano de Migração: Responsável: <Jonatas>
+- Recursos (EC2, S3, etc) - Responsável: (Alexsandra)
+- Plano de Migração: Responsável: (Jonatas)
 - Diagrama da arquitetura - Responsável: <nome>
 - Solução de monitoria - Responsável: <nome>
 - Estimativa de custos - Responsável: <nome>
